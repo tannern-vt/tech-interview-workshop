@@ -28,4 +28,4 @@ Below are the instructions for this assignment. Your repository should automatic
 
 * **Link to selected coding challenge:** https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
 
-* **Summary of partner's interview feedback:** Did very good during the interview, walked the the solution step by step in a proficient manner.
+* **Summary of partner's interview feedback:** Did very good during the interview, walked through the solution step by step in a proficient manner.
