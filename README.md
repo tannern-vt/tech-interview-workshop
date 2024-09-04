@@ -26,6 +26,6 @@ Below are the instructions for this assignment. Your repository should automatic
 
 * **Your partner's name and PID:** David Nguyen (dxvid)
 
-* **Link to selected coding challenge:** https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/1887064/python-simple-1-line/?envType=study-plan-v2&envId=leetcode-75
+* **Link to selected coding challenge:** https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
 
 * **Summary of partner's interview feedback:** Did very good during the interview, walked the the solution step by step in a proficient manner.
